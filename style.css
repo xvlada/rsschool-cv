@@ -1,3 +1,11 @@
 * {
     margin-left: 16px;
 }
+
+.perfil {
+    height: 200px;
+    width: auto;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url(https://github.com/xvlada/portfolio/blob/main/image/neon.png?raw=true);
+}
