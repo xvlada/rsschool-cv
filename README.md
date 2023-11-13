@@ -1,1 +1,1 @@
-https://xvlada.github.io/rsschool-cv/cv
+https://xvlada.github.io/rsschool-cv
