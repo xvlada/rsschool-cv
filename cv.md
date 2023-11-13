@@ -22,9 +22,9 @@
 - Customer service and communication skills
 
 ## Code examples
-https://github.com/xvlada/portfolio 
+[https://github.com/xvlada/portfolio ](https://github.com/xvlada/portfolio )
 
-https://xvlada.github.io/influencer-landing-page/
+[https://xvlada.github.io/influencer-landing-page/](https://xvlada.github.io/influencer-landing-page/)
 
 
 ## Work expirience
