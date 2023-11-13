@@ -26,3 +26,35 @@ https://github.com/xvlada/portfolio
 
 https://xvlada.github.io/influencer-landing-page/
 
+
+## Work expirience
+
+### Marketing manager and sales
+#### EMI NAIL SCHOOL AND SUPPLY CANADA / TORONTO / FEB - AUG 2023
+- _Newsletter/E-mail Marketing_
+- _Social Media Engagement_
+- _Website Content Administration_
+
+### Illustrator
+#### FREELANCE / UKRAINE / JAN 2019 - DEC 2020
+
+- _Photo retouching_
+- _Creation of illustrations_
+- _Design of presentations_
+
+## Education
+### Master's Degree / Zaporizhzhya Polytechnic University / Ukraine / 2020
+_Intelligence technologies in microsystem radioelectronic engineering_
+ 
+### Associate of Applied Science / Zaporizhzhya Technical College / Ukraine / 2016
+ _Design, manufacture, and technical maintenance of electronic products_
+
+## Courses
+- Front-End Development / Codeacademy + Coursera / 2023 JAN - PRESENT
+- Erasmus+ students exchange / Polytechnic University of Madrid / 2023 FEB - NOV
+
+## Languages
+- English (C1)
+- Spanish (B2)
+- Ukrainian (native)
+- Russian (native)
